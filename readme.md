@@ -54,6 +54,10 @@ This project is intended as:
 - A learning resource for those practicing data analysis and visualization
 - A reference for communicating data insights to non-technical audiences
 
+## Author
+
+[Lisa Monozlai](https://www.linkedin.com/in/lisamonozlai/)
+
 ## License
 
 MIT
