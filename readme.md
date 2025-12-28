@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Diabetes Progression
 
-This project uses Python to examine how common clinical measures (such as BMI, blood pressure, and cholesterol) relate to diabetes progression. The focus is on producing clear insights accessible to a broad audience.
+This project uses Python to examine how common clinical measures (such as BMI, blood pressure, and cholesterol) relate to diabetes progression. The focus is on producing clear insights accessible to a broad audience. The project can be viewed either as a [PDF](https://github.com/lisamonozlai/exploratory-data-analysis-of-diabetes-progression/blob/main/reports/eda_diabetes_progression.pdf) or in a [Jupyter Notebook](https://github.com/lisamonozlai/exploratory-data-analysis-of-diabetes-progression/blob/main/notebooks/eda_diabetes_progression.ipynb).
 
 ## Dataset
 This analysis uses a well-known 2004 diabetes dataset (`diabetes.csv`) from the [University of Copenhagen](https://www4.stat.ncsu.edu/%7Eboos/var.select/diabetes.html), commonly used in data science education.
